@@ -5,7 +5,8 @@
 I am debuting the Conflict Resolution Scheme/Protocol this
 month (February 2019). I have already showed it to a few prominent people
 whose names you might recognize. But because most of the way I approach
-Communication, I will keep those names confidential.
+Communication, I will keep those names confidential. It is only fair that
+those who email me and those who I email have some expectation of privacy.
 
 I have been using this system for a while. However, because most of the
 discussions were private, that is, they were over email, which is generally
