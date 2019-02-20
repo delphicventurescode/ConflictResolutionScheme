@@ -16,7 +16,7 @@ make the conversations public (say, I  get a request from the other party
 to make the communication public, or in case they want me to do so for 
 legal reasons), I would be happy to make some or all of it public.
 
-You can see the Public repositories below.
+You can see the Public repositories below. (They are al empty, of course.)
 _______________________________________________________________
 
 
