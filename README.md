@@ -2,7 +2,7 @@
 
 # README for the Conflict Resolution Scheme/Protocol
 
-I am debuting the Conflict Resolution Scheme/Protocol for the public this
+I am debuting the Conflict Resolution Scheme/Protocol this
 month (February 2019). I have already showed it to a few prominent people
 whose names you might recognize. But because most of the way I approach
 Communication, I will keep those names confidential.
