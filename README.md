@@ -9,11 +9,12 @@ Communication, I will keep those names confidential. It is only fair that
 those who email me and those who I email have some expectation of privacy.
 
 I have been using this system for a while. However, because most of the
-discussions were private, that is, they were over email, which is generally
-considered private communication, I have not made any of the discussions
-public. In case there is some reason I get a request from the other party
-to make the communication public, or in case they want me to do so for 
-legal reasons, I would be happy to make some or all of it public.
+discussions were private, that is, they were over email and other private
+channels, and email is generally considered private communication, I have
+not made any of the discussions public. In case there is some reason I 
+get a request from the other party to make the communication public, or 
+in case they want me to do so for legal reasons, I would be happy to 
+make some or all of it public.
 
 You can see the Public repositories below.
 _______________________________________________________________
