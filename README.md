@@ -35,7 +35,7 @@ Discussion with Amartya Sen: https://bit.ly/2ttRNt5
 
 _______________________________________________________________
 
-Note for self:
+NOTE FOR SELF:
 
 Copy of materials available at:
 
