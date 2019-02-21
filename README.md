@@ -34,3 +34,13 @@ Discussion with Amartya Sen: https://bit.ly/2ttRNt5
 
 
 _______________________________________________________________
+
+Note for self:
+
+Copy of materials available at:
+
+https://www.dropbox.com/home/1__ConflictResolutionMaterials
+
+Username is the .x email
+
+_______________________________________________________________
