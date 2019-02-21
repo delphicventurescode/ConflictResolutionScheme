@@ -41,6 +41,6 @@ Copy of materials available at:
 
 https://www.dropbox.com/home/1__ConflictResolutionMaterials
 
-Username is the .x email
+Username is the .x email. Everything is password protected.
 
 _______________________________________________________________
